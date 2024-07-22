@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashkurzekar
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning IOS Development
+- 🌱 I’m currently learning Java Development
 - 📫 How to reach me yashkurzekar2@gmail.com
 
 <!---
